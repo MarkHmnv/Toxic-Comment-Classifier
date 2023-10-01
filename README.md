@@ -1,4 +1,9 @@
+<a target="_blank" href="https://colab.research.google.com/github/MarkHmnv/Toxic-Comment-Classifier/blob/main/train.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 # Toxic Comment Classifier with BERT
+
 This is a pet project that I created with the intention of enhancing my knowledge in Machine Learning, Natural Language Processing, and TensorFlow.
 
 ## Introduction
