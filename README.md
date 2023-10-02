@@ -15,9 +15,10 @@ The dataset used for training is the [cleaned-toxic-comments](https://www.kaggle
 ## Requirements
 * TensorFlow 2.x
 * TensorFlow Hub
+* TensorFlow Text
 * Pandas
-* seaborn
-* scikit-learn
+* Seaborn(optional)
+* Scikit-learn
 * Kaggle API
 
 ## Example usage
